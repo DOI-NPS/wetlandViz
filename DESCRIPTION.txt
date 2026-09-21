@@ -1,0 +1,11 @@
+Package: wetlandViz
+Title: wetlandViz: R Shiny wetland visualizer
+Version: 1.0.1
+Authors@R: c(
+    person(given="Kate", family="Miller", email="kathryn_miller@nps.gov",
+           role = c("aut", "cre"))
+Description: R repo of code to compile data for and run the freshwater wetland visualizer for data collected in Acadia NP by the Northeast Temperate Network.
+License: CC0 + file LICENSE
+Encoding: UTF-8
+URL: https://github.com/doi-NPS/wetlandViz
+BugReports: https://github.com/doi-NPS/wetlandViz/issues
